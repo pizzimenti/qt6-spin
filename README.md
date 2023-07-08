@@ -20,7 +20,7 @@ make
 To run the application, you can then execute:
 
 ```bash
-./qt6-spin
+./CubeSpinner
 ```
 
 ## License
